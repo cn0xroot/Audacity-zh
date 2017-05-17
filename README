@@ -1,0 +1,10 @@
+### Audacity音频信号分析软件 中文菜单For Mac OSX
+ 
+#### 使用方法
+ 
+安装完原版Audacity后，打开Finder窗口:
+ 
+应用程序-->Audacity.app-->右键，显示包内容-->Contents-->Resources-->新建文件夹“zh”,将“audacity.mo”文件移动到“zh”文件夹内。
+ 
+ ![](./Pic.png)
+
